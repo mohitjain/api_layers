@@ -1,0 +1,4 @@
+ruby:
+  config_file: .hound_rubocop.yml
+haml:
+  enabled: false
